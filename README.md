@@ -13,7 +13,7 @@ I am an environmental engineer who found in programming another way to work. I a
  ⚡ Fun fact: 
 I enjoy learning new thing.
 
-I speak in Spanish and also I understand in  English, Portuguese. I'm learning French
+
 
 
 
