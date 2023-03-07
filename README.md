@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋 I'm Claudia :ok_woman:
 
-<!--
-**clau-di/clau-di** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an environmental engineer who found in programming another way to work. I am just starting in this world of programming and data analysis :sparkles:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my research for my degree
+- 🌱 Also I'm learning data analysis in learn.microsoft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 My interest:
+ - R :rabbit2:
+ - Python :snake:
+ - Data science :bar_chart:
+ 
+ ⚡ Fun fact: 
+I enjoy learning new thing.
+
+I speak in Spanish and also I understand in  English, Portuguese. I'm learning French
+
+
+
